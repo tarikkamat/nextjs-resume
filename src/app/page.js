@@ -4,7 +4,6 @@ import Education from '../components/Education';
 import Experience from '../components/Experience';
 import Skills from '../components/Skills';
 import Footer from '../components/Footer';
-import Donation from '../components/Donation';
 
 export default function Home() {
   return (
@@ -13,7 +12,6 @@ export default function Home() {
         <main className="flex-grow">
           <Header />
           <PersonalInfo />
-	  <Donation />
           <Education />
           <Experience />
           <Skills />
