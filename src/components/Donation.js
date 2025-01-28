@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 
-const DonateBitcoin = () => {
+const Donation = () => {
   const [copied, setCopied] = useState(false);
 
   const btcAddress = "bc1qr9vnlr2ewrqzc8ldcwa2yyht9y75tjyjckz6zy";
@@ -35,5 +35,5 @@ const DonateBitcoin = () => {
   );
 };
 
-export default DonateBitcoin;
+export default Donation;
 
