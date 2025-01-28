@@ -24,7 +24,7 @@ const AboutMe = () => {
 
         İyi bir yazılımcıyı diğerlerinden ayıran en önemli özellikler olarak pratiklik ve araştırmacı kişiliği görüyorum 🔍. Bu özellikleri kendi kariyerimde de ön planda tutarak, her projede en iyi sonucu elde etmeye çalışıyorum 💯.
 
-	Çalışmam ve öğrenimim için beni bağışlayın: bc1qr9vnlr2ewrqzc8ldcwa2yyht9y75tjyjckz6zy (BTC)
+	Çalışmam ve öğrenimim için beni bağışlayın: bc1qr9vnlr2ewrqzc8ldcwa2yyht9y75tjyjckz6zy (BTC) 💸💰
       `,
         en: `
         Hello 👋, I'm Tarık, a passionate Full-Stack Developer. I graduated as an honor student in 2019 from the Computer Programming department at Düzce University 🎓. Although I started an undergraduate degree in Software Engineering, I decided to leave formal education to focus on my professional career. Currently, I am continuing my education in Management Information Systems at Anadolu University Open Education Faculty, alongside my work 🖥️📚.
@@ -44,7 +44,7 @@ const AboutMe = () => {
         
         I believe the most important qualities that set a good developer apart from others are practicality and a research-oriented personality 🔍. By prioritizing these qualities in my own career, I strive to achieve the best results in every project 💯.
 
-	Donate me for my work, and for my higher study: bc1qr9vnlr2ewrqzc8ldcwa2yyht9y75tjyjckz6zy (BTC)
+	Donate me for my work, and for my higher study: bc1qr9vnlr2ewrqzc8ldcwa2yyht9y75tjyjckz6zy (BTC) 💰💸
       `
     };
 
